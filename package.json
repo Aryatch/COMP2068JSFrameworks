@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Aryatch/COMP2068JSFrameworks#readme",
   "dependencies": {
+    "connect": "^3.7.0",
     "prompt-sync": "^4.2.0"
   }
 }
